@@ -1,0 +1,13 @@
+{
+  "name": "deathevents",
+  "description": "Events for tracking deaths and spawns",
+  "author": "Aware",
+  "config": {
+    "interval": {
+        "description": "How often in milliseconds should the plugin check for deaths (probably best to leave alone)",
+        "type": "number",
+        "default": 100
+    }
+  },
+  "commands": []
+}

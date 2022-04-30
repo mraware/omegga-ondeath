@@ -4,7 +4,7 @@ A set of events to help with death and respawning
 
 ## Install
 
-`omegga install gh:Aware/omegga-deathevents`
+`omegga install gh:mrware/deathevents`
 
 
 ## Types

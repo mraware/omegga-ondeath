@@ -20,3 +20,7 @@ A set of events to help with death and respawning
 | ------------------ | -------------------------------------|
 | `death`            | { player: Player, pawn: string}      |
 | `spawn`            | { player: Player, pawn: string}      |
+
+## Sample plugin
+
+https://github.com/mraware/omegga-sample-deathevents
